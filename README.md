@@ -17,7 +17,7 @@ Other directories on the same level (but are not shown due to data confidentiali
 ``img/`` where the output images will be put 
 and ``sample/`` where the labeled data files will be put.
 
-<img src="reg_demo.png" width=300>
+<img src="reg_demo.png" height=250> <img src="cls_demo.png" height=300>
 
 ## Instructions
 
